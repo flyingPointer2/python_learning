@@ -1,4 +1,7 @@
-# Python 环境配置介绍
+---
+title : "Python 环境配置介绍"
+---
+
 
 ## 1. Python 解释器安装
 
