@@ -2,7 +2,7 @@
 
 首先我们需要安装Python解释器，它的作用是将Python语言编写的程序代码转化为计算机能够"理解"的机器指令，并执行这些指令。
 
-我们可以从Python官网下载解释器，其地址为：https://www.python.org/downloads/
+我们可以从Python官网下载解释器，其地址为：[https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 Python官网提供的下载界面如下。网站默认会根据当前的操作系统给出下载链接，点击Download进行下载；也可根据其提示选择其他操作系统的安装包。这里以Windows系统为例进行演示。
 
@@ -26,7 +26,7 @@ Python官网提供的下载界面如下。网站默认会根据当前的操作�
 
 除了交互式界面，我们也可以在附带的IDLE中撰写和运行代码，但IDLE在代码调试、跨平台支持、插件系统等方面有所不足。除了IDLE之外，我们还可以选择在其他软件中编写和运行Python程序，如VSCode、Pycharm等。这里首先以VSCode为例进行演示。VSCode全称Visual Studio Code，是一个由微软开发的免费、开源的代码编辑器，可以通过插件系统支持Python等多种编程语言，具有跨平台、轻量级、智能代码补全、代码高亮和格式化、扩展插件丰富等优点。
 
-我们可以从VScode的官网下载其安装包，其官网链接为：https://code.visualstudio.com/
+我们可以从VScode的官网下载其安装包，其官网链接为：[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 同样地，网站默认会根据当前的操作系统给出下载链接；也可点击"other platforms"选择其他操作系统的安装包。这里仍然以Windows系统为例进行演示。
 
@@ -66,7 +66,7 @@ print('Hello world!')
 
 ## 补充说明0：视频教程
 
-上述Python环境配置步骤也可以参考对应的视频，其播放链接为：https://www.bilibili.com/video/BV1GxWQenEso/ 
+上述Python环境配置步骤也可以参考对应的视频，其播放链接为：[https://www.bilibili.com/video/BV1GxWQenEso/](https://www.bilibili.com/video/BV1GxWQenEso/)
 
 
 
@@ -106,7 +106,7 @@ PyCharm是由JetBrains公司开发的一款专为Python语言设计的集成开�
 
 > IDE（Integrated Development Environment，集成开发环境）是一个软件应用程序，它为编写、测试和调试代码提供了一个统一的界面。IDE通常包含代码编辑器、编译器或解释器、调试器、插件系统等关键组件。IDE的目的是提高开发效率，通过集成多种工具和功能，使开发者能够在一个环境中完成从编码到部署的全过程。
 
-我们可以从Pycharm官网进行下载，其官网地址为：https://www.jetbrains.com/pycharm/download/
+我们可以从Pycharm官网进行下载，其官网地址为：[https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
 
 同样地，网站默认会根据当前的操作系统给出下载链接，如下图所示；也可选择其他操作系统的安装包。这里仍然以Windows系统为例进行演示。
 
