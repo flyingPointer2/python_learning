@@ -1,4 +1,4 @@
-# Python 环境配置
+## 1. Python 解释器安装
 
 首先我们需要安装Python解释器，它的作用是将Python语言编写的程序代码转化为计算机能够"理解"的机器指令，并执行这些指令。
 
@@ -24,7 +24,11 @@ Python官网提供的下载界面如下。网站默认会根据当前的操作�
 
 ![](images/install-python-4.png)
 
-除了交互式界面，我们也可以在附带的IDLE中撰写和运行代码，但IDLE在代码调试、跨平台支持、插件系统等方面有所不足。除了IDLE之外，我们还可以选择在其他软件中编写和运行Python程序，如VSCode、Pycharm等。这里首先以VSCode为例进行演示。VSCode全称Visual Studio Code，是一个由微软开发的免费、开源的代码编辑器，可以通过插件系统支持Python等多种编程语言，具有跨平台、轻量级、智能代码补全、代码高亮和格式化、扩展插件丰富等优点。
+除了交互式界面，我们也可以在附带的IDLE中撰写和运行代码，但IDLE在代码调试、跨平台支持、插件系统等方面有所不足。除了IDLE之外，我们还可以选择在其他软件中编写和运行Python程序，如VSCode、Pycharm等。下面以VSCode为例进行演示。
+
+## 2. 在 VSCode 中运行 Python 程序
+
+VSCode全称Visual Studio Code，是一个由微软开发的免费、开源的代码编辑器，可以通过插件系统支持Python等多种编程语言，具有跨平台、轻量级、智能代码补全、代码高亮和格式化、扩展插件丰富等优点。
 
 我们可以从VScode的官网下载其安装包，其官网链接为：[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
