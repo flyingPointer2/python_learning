@@ -6,6 +6,7 @@ author: "flyingPointer2"
 permalink: /post/python-install
 ---
 
+# Python 环境配置
 
 ## 1. Python 解释器安装
 
