@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Python 学习笔记
 permalink: /
 ---
 
