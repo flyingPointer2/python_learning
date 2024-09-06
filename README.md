@@ -1,13 +1,6 @@
----
-layout: default
-title: Python 学习笔记
-permalink: /
----
+# Python 学习笔记
 
-<h1>文章列表</h1>
-{% for post in site.posts %}
-<article>
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-</article>
-{% endfor %}
+## 文章列表
+
+- [Python环境配置](_posts/2024-09-06-python-install.markdown)
+

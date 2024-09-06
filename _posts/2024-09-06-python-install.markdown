@@ -1,12 +1,4 @@
----
-layout: post
-title: "Python环境配置"
-date: 2024-09-06
-author: "flyingPointer2"
-permalink: /post/python-install
----
-
-# Python 环境配置
+# [Python学习笔记](../README.md)丨Python 环境配置
 
 ## 1. Python 解释器安装
 
