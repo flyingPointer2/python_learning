@@ -1,4 +1,4 @@
-# flyingPOinter2 的 Python 学习笔记
+# flyingPointer2 的 Python 学习笔记
 
 <https://flyingpointer2.github.io/python_learning/>
 
