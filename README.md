@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "flyingPointer's Blog"
 permalink: /
 ---
 
