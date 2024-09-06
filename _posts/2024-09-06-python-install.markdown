@@ -3,7 +3,7 @@ layout: post
 title: "Python环境配置"
 date: 2024-09-06
 author: "flyingPointer2"
-permalink: /post/python-install
+permalink: /python_learning/post/python-install
 ---
 
 # Python 环境配置
