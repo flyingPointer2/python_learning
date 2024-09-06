@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "flyingPointer's Blog"
+permalink: /
 ---
 
 <h1>文章列表</h1>
