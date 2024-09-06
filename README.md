@@ -17,7 +17,11 @@ Python官网提供的下载界面如下。网站默认会根据当前的操作�
 
 ![](images/install-python-2.png)
 
-完成安装后，按键 `Win + R` 调出"运行"窗口，在其中输入 `cmd` 调出命令行终端，如下图所示。
+完成安装后，按键 `Win + R` 调出"运行"窗口；`Win`键位置如下图所示。
+
+![](images/Keyboard-layout-windows11.jpg)
+
+在"运行"窗口中输入 `cmd` 以调出命令行终端，如下图所示。
 
 ![](images/install-python-3.png)
 
@@ -45,13 +49,13 @@ VSCode全称Visual Studio Code，是一个由微软开发的免费、开源的�
 
 ![](images/install-vscode-2.png)
 
-接下来，我们在VScode中编写和运行第一个Python程序。首先，我们需要安装Python插件。点击左侧边栏的"Extensions"（扩展插件），搜索"python"并点击"install"进行安装。
+首次打开一个目录时，可能会弹出提示框"Do you trust the authors of the files in this folder?"（是否信任作者），点击 "Trust the author"（信任作者）即可。接下来，我们在VScode中编写和运行第一个Python程序。首先，我们需要安装Python插件。点击左侧边栏的"Extensions"（扩展插件），搜索"python"并点击"install"进行安装。
 
-![](images/install-vscode-3.png)
+![](images/install-vscode-3.jpg)
 
-安装完成后，点击左侧边栏的"Explorer"（文件系统），右键点击"New File"（新建文件），如下图所示。
+安装完成后，点击左侧边栏的"Explorer"（文件系统），点击"New File"（新建文件），如下图所示。
 
-![](images/install-vscode-4.png)
+![](images/install-vscode-4.jpg)
 
 新的文件扩展名需为`.py`，例如新建一个名为`hello.py`的文件，然后输入下面的代码：
 
@@ -71,7 +75,9 @@ print('Hello world!')
 
 ## 补充说明0：视频教程
 
-上述Python环境配置步骤也可以参考对应的视频，其播放链接为：[https://www.bilibili.com/video/BV1GxWQenEso/](https://www.bilibili.com/video/BV1GxWQenEso/)
+上述Python环境配置步骤也可以参考对应的视频：
+
+播放链接：[https://www.bilibili.com/video/BV1GxWQenEso/](https://www.bilibili.com/video/BV1GxWQenEso/)
 
 
 
@@ -83,7 +89,9 @@ print('Hello world!')
 
 ### 1.2 终端调出方式
 
-在MacOS系统中，可以通过 `Command + 空格` 首先调出聚焦搜索，然后在其中搜索 `terminal` 并打开，即可打开终端。
+在MacOS系统中，可以通过 `Command + 空格` 首先调出聚焦搜索，然后在其中搜索 `terminal` 并打开，即可打开终端，如下图所示。
+
+![](images/MacOS-terminal.jpeg)
 
 ### 1.3 VSCode打开目录的方法
 
