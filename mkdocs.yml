@@ -1,0 +1,72 @@
+site_name: Python 学习笔记
+site_url: https://flyingpointer2.github.io/python_learning/
+site_author: flyingPointer2
+site_description: flyingPointer2 的 Python 学习笔记
+
+
+theme:
+  name: material
+  palette:
+    # 日间模式
+    - scheme: default
+      # 主颜色
+      primary: indigo
+      # 链接等可交互元件的高亮色
+      accent: orange
+      toggle:
+        # 图标
+        icon: material/weather-night
+        # 鼠标悬浮提示
+        name: 切换至夜间模式
+    # 夜间模式
+    - scheme: slate
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+  features:
+    # 使用 Tab 来进行分类
+    - navigation.tabs
+    # 返回顶部的按钮，在上滑时出现
+    - navigation.top
+    # 给每个 Tab 添加一个 index.md，且在点击 Tab 时打开
+    - navigation.indexes
+    # 打开 Tab 时左侧目录全部展开
+    - navigation.expand
+    # 搜索输入一些字母时推荐补全整个单词
+    - search.suggest
+    # 搜索的关键词文章加入高亮
+    - search.highlight
+    # 可以通过按钮复制代码
+    - content.code.copy
+    # [点击按钮跳转至 GitHub 修改 Markdown 源文件]
+    # - content.action.edit
+  # 一些提示性的文字会变成中文
+  language: zh 
+  # icon:
+  #   # [添加 GitHub 仓库]
+  #   # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#repository-icon
+  #   repo: fontawesome/brands/github
+
+nav:
+  - 关于:
+    - ABOUT/index.md
+  - 笔记:
+    - NOTES/index.md
+    - Python:
+      - 0_Python环境配置: NOTES/Python/0_Python_install.md
+    
+  
+copyright: flyingPointer2 CC-BY-4.0
+# [bottom-right corner]
+extra:
+  # [添加社交网络图标和链接]
+  # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links
+  # 搜索图标：https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
+  # name 会在鼠标悬浮时提示
+  social: # icons
+    - name: GitHub | flyingPointer2
+      icon: fontawesome/brands/github
+      link: https://github.com/flyingPointer2/python_learning
+

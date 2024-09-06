@@ -1,5 +1,7 @@
+# flyingPOinter2 的 Python 学习笔记
 
-## 文章列表
+<https://flyingpointer2.github.io/python_learning/>
 
-- [Python 环境配置](_posts/2024-09-06-python-install.markdown)
-
+- 生成 [MkDocs](https://www.mkdocs.org) 
+- 主题 [Material](https://github.com/squidfunk/mkdocs-material)
+- 发布 [GitHub Pages](https://pages.github.com) 
