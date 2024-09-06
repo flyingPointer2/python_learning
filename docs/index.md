@@ -2,14 +2,7 @@
 
 For full list of articles, please visit [NOTES](https://flyingpointer2.github.io/python_learning/NOTES/).
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## See some figures about nothern lights
+Let's see some figures about the universe!
 
 ![Nebula](https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2107&q=80)
 
