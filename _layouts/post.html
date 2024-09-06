@@ -13,12 +13,12 @@ layout: default
     <h2>目录</h2>
     <ul>
       {% for heading in page.content | split: '</h2>' %}
-        {% if heading contains '<h2' %}
+        {% if heading contains '<h2>' %}
           <li><a href="#{{ heading | split: '<h2>' | last | split: '" id="' | first }}">{{ heading | split: '<h2>' | last | split: '>' | first }}</a></li>
         {% endif %}
       {% endfor %}
       {% for heading in page.content | split: '</h3>' %}
-        {% if heading contains '<h3' %}
+        {% if heading contains '<h3>' %}
           <li><a href="#{{ heading | split: '<h3>' | last | split: '" id="' | first }}" style="padding-left: 20px;">- {{ heading | split: '<h3>' | last | split: '>' | first }}</a></li>
         {% endif %}
       {% endfor %}
