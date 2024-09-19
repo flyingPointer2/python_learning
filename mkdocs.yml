@@ -107,8 +107,9 @@ markdown_extensions:
   # https://squidfunk.github.io/mkdocs-material/reference/footnotes/
   - footnotes
 
-plugins:
-  - privacy:
-  # make all external links open in a new tab
-      links_attr_map:
-        target: _blank
+# The following settings are useless!
+# plugins:
+#   - privacy:
+#   # make all external links open in a new tab
+#       links_attr_map:
+#         target: _blank
